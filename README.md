@@ -2,7 +2,7 @@
 ## Identitas Mahasiswa
 - **Nama Lengkap:** [Dimas Adi Tiara Hayu]
 - **NIM:** [C2583207053]
-- **Nama Proyek:** []
+- **Nama Proyek:** [Adventure Camp — Sistem Penyewaan Peralatan Camping]
 
 ## Deskripsi Singkat Program
 Program ini adalah aplikasi berbasis konsol untuk mengelola penyewaan peralatan camping milik Adventure Camp. Program dibuat menggunakan bahasa C dengan pendekatan terstruktur.
